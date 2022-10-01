@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: a8f73d1abda3c614f912aa965de9be4a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - floorPrefab: {fileID: 5729166327474505555, guid: 546c04cf3b597f74e82a83f4050ceea1, type: 3}
+  - horizontalWallPrefab: {instanceID: 0}
+  - verticalWallPrefab: {instanceID: 0}
+  - goalPrefab: {instanceID: 0}
+  - playerTransform: {instanceID: 0}
+  - levelTransform: {instanceID: 0}
+  - goalTransform: {instanceID: 0}
+  - vcam: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
